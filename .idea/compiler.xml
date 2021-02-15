@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="a" />
-        <module name="gittest" />
         <module name="gittest (1)" />
+        <module name="gittest" />
+        <module name="a" />
+        <module name="gitxx" />
       </profile>
     </annotationProcessing>
   </component>
